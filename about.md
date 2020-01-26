@@ -20,19 +20,4 @@
     Munich, Germany
   </a>
   <br>
-  <!-- Telephone -->
-  <a href="tel:+491707774499">
-    <img src="https://the-rccg.github.io/icons/phone.svg" height="19" class="icon" /> 
-    <SCRIPT TYPE="text/javascript">
-      phone = '(+49) 170 7774499'
-      document.write(phone)
-    </script>
-  </a>
-  <br>
-  <!-- E-Mail -->
-  <SCRIPT TYPE="text/javascript">
-    emailE = 'outlook.com'
-    emailE = ('r.greif' + '@' + emailE)
-    document.write('<A href="mailto:' + emailE + '"> <img src="https://the-rccg.github.io/icons/envelope.svg" height="22" class="icon" /> ' + emailE + '</a>')
-  </script>
 </div> <!-- Details -->
