@@ -5,14 +5,18 @@
 @import "{{ site.theme }}";
 
 body {
-        background-color: #fffdfb;
-        text-align: center; 
-        color: #000000;
-        z-index: -1;
-        opacity: 1;
-        background-image: url(https://the-rccg.github.io/beige-paper.png);
-        background-size: auto;
-        background-repeat: repeat;
+ background-color:#fffdfb;
+ color:#000000;
+ z-index:0;
+ opacity:1;
+ background-image:url(https://the-rccg.github.io/beige-paper.png);
+ background-size:auto;
+ background-repeat:repeat
+}
+
+hr {
+        color:#000;
+        opacity:0.7;
 }
 
 .post img {
