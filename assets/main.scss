@@ -18,7 +18,12 @@ body {
  color: inherit;
 }
 
-.site-header .site-header:visited {
+.site-header {
+ color: #111111;
+ border-bottom-color: #c7c5c5;
+}
+
+.site-header:visited {
  color: #111111;
  border-bottom-color: #c7c5c5;
 }
