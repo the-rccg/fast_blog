@@ -1,11 +1,11 @@
 # About
 
-PhD Candidate researching the use of AI for fusion reactor simulations<br \>
-at the Max-Planck-Institute for Plasma Physics and the Helmholtz graduate program.<br \>
-MSc in Computational Physics at Heidelberg University.<br \>
-BA in Physics from the University of Chicago, Class of 2015.<br \>
-Worked in blockchain, derivatives trading, and credit markets.<br \>
-Munich, Chicago, London, Luanda.<br \>
+PhD Candidate researching the use of AI for fusion reactor simulations<br />
+at the Max-Planck-Institute for Plasma Physics and the Helmholtz graduate program.<br />
+MSc in Computational Physics at Heidelberg University.<br />
+BA in Physics from the University of Chicago, Class of 2015.<br />
+Worked in blockchain, derivatives trading, and credit markets.<br />
+Munich, Chicago, London, Luanda.<br />
 
 
 <div class="details">
@@ -23,10 +23,8 @@ Munich, Chicago, London, Luanda.<br \>
   <br>
   <!-- Address -->
   <img style="float: left; border: 0px" src="https://the-rccg.github.io/icons/map_pin.svg" height="20" class="icon" /> 
-  <a href="https://the-rccg.github.io/keybase.txt", target="_blank">
+  <a href="https://the-rccg.github.io/keybase.txt/", target="_blank">
     Munich, Germany
   </a>
   <br>
 </div> <!-- Details -->
-
-</center>
