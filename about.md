@@ -22,7 +22,7 @@ Munich, Chicago, London, Luanda.<br />
   <br>
   <!-- Address -->
   <img style="float: left; border: 0px" src="https://the-rccg.github.io/icons/map_pin.svg" height="20" class="icon" /> 
-  <a href="https://www.the-rccg.github.io/keybase.txt/", target="_blank">
+  <a href="https://www.the-rccg.github.io/keybase.txt/" target="_blank">
     Munich, Germany
   </a>
   <br>
