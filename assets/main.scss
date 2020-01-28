@@ -25,33 +25,31 @@ body {
 }
 
 .site-title {
- color: inherit;
+ color: #000;
 }
 
 .site-header {
  color: #000;
  border-bottom-color: #c7c5c5;
  font-family: 'Times New Roman', Times, serif;
- opacity: 0.8;
+ opacity: 0.85;
 }
 
 .site-header:visited {
  color: #000;
  border-bottom-color: #c7c5c5;
- opacity: 0.8;
+ opacity: 0.85;
 }
 
 .site-nav .page-link {
  color: inherit;
- opacity: 0.8;
+ opacity: 0.85;
  font-size: 18px;
 }
 
 .site-footer {
  border-top-color: #c7c5c5;
  font-size: 20px;
- letter-spacing: 1.15pt;
- word-spacing: 1.20pt;
  font-family: 'Times New Roman', Times, serif;
 }
 
