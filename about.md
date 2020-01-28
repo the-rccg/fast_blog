@@ -1,4 +1,3 @@
-<center>
 # About
 
 PhD Candidate researching the use of AI for fusion reactor simulations<br \>
@@ -13,7 +12,7 @@ Munich, Chicago, London, Luanda.<br \>
   <!-- vCard -->
   <div class="qr">
     <a href="vCard.vcf">
-      <img src="https://the-rccg.github.io/rgreif_qrcode.png" height="156" class="qr", border="0">
+      <img style="float: center; border: 0px" src="https://the-rccg.github.io/rgreif_qrcode.png" height="156" class="qr">
     </a>
   </div>
   <!-- Education -->
