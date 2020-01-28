@@ -7,11 +7,21 @@
 body {
  background-color:#fffdfb;
  color:#000000;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 18px;
  z-index:0;
  opacity:0.9;
  background-image:url(https://the-rccg.github.io/beige-paper.png);
  background-size:auto;
  background-repeat:repeat;
+}
+
+.post {
+ text-align: center;
+}
+
+.h-entry {
+ text-align: justify;
 }
 
 .home {
