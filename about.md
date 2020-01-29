@@ -15,13 +15,13 @@ Munich, Chicago, London, Luanda.<br />
     </a>
   </div>
   <!-- Education -->
-  <img style="float: left; border: 0px" src="https://the-rccg.github.io/icons/grad_hat.svg" height="22" class="icon" /> 
+  <img style="border: 0px" src="https://the-rccg.github.io/icons/grad_hat.svg" height="22" class="icon" /> 
   <a href="https://www.uchicago.edu/" target="_blank">
     Physics, UChicago 
   </a>
   <br>
   <!-- Address -->
-  <img style="float: left; border: 0px" src="https://the-rccg.github.io/icons/map_pin.svg" height="20" class="icon" /> 
+  <img style="border: 0px" src="https://the-rccg.github.io/icons/map_pin.svg" height="20" class="icon" /> 
   <a href="https://www.the-rccg.github.io/keybase.txt/" target="_blank">
     Munich, Germany
   </a>
