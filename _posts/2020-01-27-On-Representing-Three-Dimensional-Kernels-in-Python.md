@@ -18,7 +18,8 @@ summary: "Different representations for a 3D Kernel in (3,3,3,1,1)"
 -->
 
 <div class="container" id="notebook-container">
-    
+    {% raw %}
+        
 <div class="cell border-box-sizing code_cell rendered">
 
 </div>
@@ -483,6 +484,7 @@ summary: "Different representations for a 3D Kernel in (3,3,3,1,1)"
 </div>
 </div>
 </div>
+    {% endraw %}
 </div>
  
 
