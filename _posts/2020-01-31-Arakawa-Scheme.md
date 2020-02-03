@@ -66,23 +66,23 @@ $$\frac{\mathbb{J}^{++} + \mathbb{J}^{+\times} + \mathbb{J}^{\times +}}{3}$$
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>$\mathbb{J}^{++}(\zeta, \psi) 
 = \frac{1}{4d^2} \left[ 
-    \left( \zeta_{i+1, j}   - \zeta_{i-1, j}   \right) \left( \psi_{i,   j+1} - \psi_{i,   j-1} \right)
-   -\left( \zeta_{i,   j+1} - \zeta_{i,   j-1} \right) \left( \psi_{i+1, j}   - \psi_{i-1, j}   \right)
+    \left( \zeta_{i+1, j}   - \zeta_{i-1, j}   \right) \left( \psi_{i,   j+1} - \psi_{i,   j-1} \right) \\
+   \quad\;-\left( \zeta_{i,   j+1} - \zeta_{i,   j-1} \right) \left( \psi_{i+1, j}   - \psi_{i-1, j}   \right)
 \right]
 $</p>
 <p>$\mathbb{J}^{+\times}(\zeta, \psi)
 = \frac{1}{4d^2} \left[
-    \zeta_{i+1, j}   \left( \psi_{i+1, j+1} - \psi_{i+1, j-1} \right)
-   -\zeta_{i-1, j}   \left( \psi_{i-1, j+1} - \psi_{i-1, j-1} \right)
-   -\zeta_{i,   j+1} \left( \psi_{i+1, j+1} - \psi_{i-1, j+1} \right)
-   +\zeta_{i,   j-1} \left( \psi_{i+1, j-1} - \psi_{i-1, j-1} \right)
+    \zeta_{i+1, j}   \left( \psi_{i+1, j+1} - \psi_{i+1, j-1} \right) \\
+   -\zeta_{i-1, j}   \left( \psi_{i-1, j+1} - \psi_{i-1, j-1} \right) \\
+   -\zeta_{i,   j+1} \left( \psi_{i+1, j+1} - \psi_{i-1, j+1} \right) \\
+   +\zeta_{i,   j-1} \left( \psi_{i+1, j-1} - \psi_{i-1, j-1} \right) 
 \right]
 $</p>
 <p>$\mathbb{J}^{+\times}(\zeta, \psi)
 = \frac{1}{4d^2} \left[
-    \zeta_{i+1, j+1} \left( \psi_{i,   j+1} - \psi_{i+1, j}   \right)
-   -\zeta_{i-1, j-1} \left( \psi_{i-1, j}   - \psi_{i, j-1} \right)
-   -\zeta_{i-1, j+1} \left( \psi_{i,   j+1} - \psi_{i-1, j}   \right)
+    \zeta_{i+1, j+1} \left( \psi_{i,   j+1} - \psi_{i+1, j}   \right) \\
+   -\zeta_{i-1, j-1} \left( \psi_{i-1, j}   - \psi_{i, j-1}   \right) \\
+   -\zeta_{i-1, j+1} \left( \psi_{i,   j+1} - \psi_{i-1, j}   \right) \\
    +\zeta_{i+1, j-1} \left( \psi_{i+1, j}   - \psi_{i,   j-1} \right)
 \right]
 $</p>
