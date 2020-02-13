@@ -274,6 +274,3 @@ for i, colors in enumerate(color_list):
 
 
 
-```python
-
-```
