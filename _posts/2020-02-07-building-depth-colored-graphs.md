@@ -208,7 +208,7 @@ Image('./linear.png')
 
 
 
-![png](../assets/2020-02-07-building-depth-colored-graphs/output_23_0.png)
+![png](assets/2020-02-07-building-depth-colored-graphs/output_23_0.png)
 
 
 
@@ -229,7 +229,7 @@ Image('./shrinked.png')
 
 
 
-![png](../assets/2020-02-07-building-depth-colored-graphs/output_25_0.png)
+![png](/assets/2020-02-07-building-depth-colored-graphs/output_25_0.png)
 
 
 
@@ -246,11 +246,11 @@ Step 1: Drag & Drop SVG onto slide
 
 Step 2: Conert to Shape
 
-![../assets/2020-02-07-building-depth-colored-graphs/conert_to_shape.png](attachment:../assets/2020-02-07-building-depth-colored-graphs/conert_to_shape.png)
+![conert_to_shape.png](attachment:/assets/2020-02-07-building-depth-colored-graphs/conert_to_shape.png)
 
 Step 3: Convert to drawing object
 
-![../assets/2020-02-07-building-depth-colored-graphs/confirm.png](attachment:../assets/2020-02-07-building-depth-colored-graphs/confirm.png)
+![confirm.png](/assets/2020-02-07-building-depth-colored-graphs/confirm.png)
 
 Step 4: Resulting Representation
 
