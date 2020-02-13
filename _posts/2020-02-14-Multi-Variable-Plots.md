@@ -153,7 +153,7 @@ three_var_plot(axarr[2], c.x, c.y,
 ```
 
 
-![png](output_24_0.png)
+![png]({{ site.baseurl }}/assets/2020-02-14-Multi-Variable-Plots/output_24_0.png)
 
 
 ## Create Color Triangle
@@ -270,7 +270,7 @@ for i, colors in enumerate(color_list):
 ```
 
 
-![png](output_29_0.png)
+![png]({{ site.baseurl }}/assets/2020-02-14-Multi-Variable-Plots/output_29_0.png)
 
 
 
