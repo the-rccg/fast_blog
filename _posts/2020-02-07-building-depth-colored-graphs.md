@@ -246,15 +246,15 @@ Step 1: Drag & Drop SVG onto slide
 
 Step 2: Conert to Shape
 
-![../assets/2020-02-07-building-depth-colored-graphs/conert_to_shape.png](attachment:conert_to_shape.png)
+![../assets/2020-02-07-building-depth-colored-graphs/conert_to_shape.png](attachment:../assets/2020-02-07-building-depth-colored-graphs/conert_to_shape.png)
 
 Step 3: Convert to drawing object
 
-![../assets/2020-02-07-building-depth-colored-graphs/confirm.png](attachment:confirm.png)
+![../assets/2020-02-07-building-depth-colored-graphs/confirm.png](attachment:../assets/2020-02-07-building-depth-colored-graphs/confirm.png)
 
 Step 4: Resulting Representation
 
-![../assets/2020-02-07-building-depth-colored-graphs/graph_in_powerpoint.png](attachment:graph_in_powerpoint.png)
+![../assets/2020-02-07-building-depth-colored-graphs/graph_in_powerpoint.png](attachment:../assets/2020-02-07-building-depth-colored-graphs/graph_in_powerpoint.png)
 
 Note: Current problems in SVG to PowerPoint conversion (Feb. 2020, Office 365)
 
@@ -262,7 +262,7 @@ Note: Current problems in SVG to PowerPoint conversion (Feb. 2020, Office 365)
 - Arrows are images of lines + image of head
 - Arrows are not connected to bullets
 
-![../assets/2020-02-07-building-depth-colored-graphs/problems_with_pp_conversion.png](attachment:problems_with_pp_conversion.png)
+![../assets/2020-02-07-building-depth-colored-graphs/problems_with_pp_conversion.png](attachment:../assets/2020-02-07-building-depth-colored-graphs/problems_with_pp_conversion.png)
 
 
 
